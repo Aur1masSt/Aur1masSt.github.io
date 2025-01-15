@@ -6,12 +6,12 @@
 [My blog](#MY-BLOG)
 
    <br><br><br>
-# ABOUT ME
+<h1 id="about-me" >ABOUT ME</h1>
 
 some description about me...
 
    <br><br><br>
-# MY PROJECTS
+   <h1 id="my-projects" >MY PROJECTS</h1>
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -39,6 +39,6 @@ some description about me...
 4. **Run Tests:** `[Your Test Execution Command]`
 
    <br><br><br>
-   # MY BLOG
+ <h1 id="my-blog" >My BLOG</h1>
 
    ....
