@@ -1,4 +1,5 @@
-# [Project Name] Test Automation Framework
+# Hello I'm Aurimas 
+I'm junior QA engineer 
 
 [![Project Logo or Banner]](link-to-image)
 
