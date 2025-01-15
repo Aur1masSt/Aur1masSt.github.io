@@ -1,9 +1,9 @@
 # Hello I'm Aurimas 
 ### I'm junior QA engineer 
 
-[About me](# ABOUT-ME)  
-[My projects](# MY-PROJECTS)  
-[My blog](# MY-BLOG)
+[About me](#ABOUT-ME)  
+[My projects](#MY-PROJECTS)  
+[My blog](#MY-BLOG)
 
    <br><br><br>
 # ABOUT ME
