@@ -1,8 +1,8 @@
 # Hello I'm Aurimas 
 ### I'm junior QA engineer 
 
-[About me]()
-[My projects]()
+[About me]()  
+[My projects]()  
 [My blog]()
 
 [![Project Logo or Banner]](link-to-image)
