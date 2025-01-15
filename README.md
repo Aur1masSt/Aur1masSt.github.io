@@ -1,17 +1,23 @@
-# Hello I'm Aurimas 
-### I'm junior QA engineer 
+# Hello I'm Aurimas
+### I'm junior QA engineer
 
-[About me](#ABOUT-ME)  
-[My projects](#MY-PROJECTS)  
-[My blog](#MY-BLOG)
+<h2>
+  <a href="#about-me">About Me</a>
+</h2>
+<h2>
+  <a href="#my-projects">My Projects</a>
+</h2>
+<h2>
+  <a href="#my-blog">My Blog</a>
+</h2>
 
-   <br><br><br>
+<br><br><br>
 <h1 id="about-me" >ABOUT ME</h1>
 
 some description about me...
 
-   <br><br><br>
-   <h1 id="my-projects" >MY PROJECTS</h1>
+<br><br><br>
+<h1 id="my-projects" >MY PROJECTS</h1>
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -38,7 +44,8 @@ some description about me...
 3. **Configure Environment:**  Set up any required environment variables or configurations.
 4. **Run Tests:** `[Your Test Execution Command]`
 
-   <br><br><br>
- <h1 id="my-blog" >My BLOG</h1>
+<br><br><br>
+<h1 id="my-blog" >My BLOG</h1>
 
-   ....
+
+some my articles about technology ...
